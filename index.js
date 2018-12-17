@@ -3,7 +3,7 @@ var https = require('https');
 var zlib = require('zlib');
 var crypto = require('crypto');
 
-var endpoint = 'search-testdomailforgc11-pnqddvcwphwbqwlmlgyjfmyliy.cn-north-1.es.amazonaws.com.cn';
+var endpoint = 'Endpointname';
 
 exports.handler = function(input, context) {
     // decode input from base64
